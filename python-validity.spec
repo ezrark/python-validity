@@ -20,6 +20,7 @@ Validity fingerprint sensor driver.
 Summary:        %{summary}
 
 BuildRequires:  python3-devel
+BuildRequires:  python3-setuptools
 BuildRequires:  policycoreutils
 BuildRequires:  checkpolicy
 BuildRequires:  bzip2
